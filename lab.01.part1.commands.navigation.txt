@@ -15,6 +15,50 @@ $ ls<ENTER>
 
 Copy and paste the output of ls below.
 ----------
+'3D Objects'/
+ AppData/
+ Apple/
+'Application Data'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{4eb91a62-2483-11eb-94b0-de4ddc7fd8fb}.TM.blf
+ NTUSER.DAT{4eb91a62-2483-11eb-94b0-de4ddc7fd8fb}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{4eb91a62-2483-11eb-94b0-de4ddc7fd8fb}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ Nox_share/
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ d4ac4633ebd6440fa397b84f1bc94a3c.7z
+ inittk.ini
+ inst.ini
+'mda2942@hillcresths.org Creative Cloud Files'/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ nuuid.ini
+ useruid.ini
+ vmlogs/
+
 
 
 
