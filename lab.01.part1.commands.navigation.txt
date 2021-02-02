@@ -220,7 +220,7 @@ cd mtec1003
 
 $ pwd
 
-Check that the output ends with mtec1003 (something like this: /Users/joe/mtec1002).
+Check that the output ends with mtec1003 (something like this: /Users/joe/mtec1003).
 
 If it doesn't ask for help before moving on!
 
