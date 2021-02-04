@@ -521,6 +521,7 @@ $ cd baz
 
 What command did you use?
 ----------
+cd ~/foo
 
 
 
@@ -530,7 +531,7 @@ What command did you use?
 ==========
 36. What command is used to delete empty directories?
 ----------
-
+rmdir (directory name)
 
 
 
@@ -539,7 +540,7 @@ What command did you use?
 ==========
 37. What command is used to print out your current working directory?
 ----------
-
+pwd
 
 
 
@@ -548,7 +549,7 @@ What command did you use?
 ==========
 38. What flag do I pass to ls to print out all files?
 ----------
-
+ls -a
 
 
 
@@ -557,7 +558,7 @@ What command did you use?
 ==========
 39. What's the shortcut for home directory?
 ----------
-
+$ cd ~/mtec1003
 
 
 
@@ -575,7 +576,7 @@ What command did you use?
 ==========
 41. What is a directory?
 ----------
-
+A directory is a folder that can contain mutiple files. 
 
 
 
@@ -584,3 +585,4 @@ What command did you use?
 ==========
 42. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
+/c/Users/RaydenR/downloads
