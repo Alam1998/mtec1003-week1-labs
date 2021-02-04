@@ -455,7 +455,7 @@ lemon
 
 Write the one command you used below:
 ----------
-
+$ mkdir -p pineapple/orange/strawberry/lemon
 
 
 
@@ -466,7 +466,7 @@ Write the one command you used below:
 
 Write the command you used to create the directory below:
 ----------
-
+$ mkdir aardvark
 
 
 
@@ -477,8 +477,9 @@ Write the command you used to create the directory below:
 
 What is the modified date of the aardvark directory?
 ----------
+aardvark/  animals/  pineapple/
 
-
+drwxr-xr-x 1 RaydenR 197121 0 Feb  4 15:36 aardvark/
 
 
 
@@ -492,6 +493,9 @@ What is the modified date of the aardvark directory?
 
 What command did you use?
 ----------
+$ mkdir outermost
+$ cd outermost
+$ mkdir -p foo/bar/baz
 
 
 
@@ -503,6 +507,9 @@ What command did you use?
 
 What command did you use?
 ----------
+$ cd foo
+$ cd bar
+$ cd baz
 
 
 
