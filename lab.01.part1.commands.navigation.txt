@@ -567,7 +567,7 @@ $ cd ~/mtec1003
 ==========
 40. What's a pathname?
 ----------
-
+A pathname is the name of a file or directory that specifies a unique location in the file system.
 
 
 
