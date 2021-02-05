@@ -455,7 +455,7 @@ lemon
 
 Write the one command you used below:
 ----------
-$ mkdir -p pineapple/orange/strawberry/lemon
+$ mkdir -p orange/strawberry/lemon/pineapple
 
 
 
