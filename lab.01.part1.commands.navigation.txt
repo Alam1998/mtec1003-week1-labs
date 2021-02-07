@@ -477,7 +477,7 @@ $ mkdir aardvark
 
 What is the modified date of the aardvark directory?
 ----------
-aardvark/  animals/  pineapple/
+aardvark/  animals/  orange/
 
 drwxr-xr-x 1 RaydenR 197121 0 Feb  4 15:36 aardvark/
 
@@ -493,8 +493,6 @@ drwxr-xr-x 1 RaydenR 197121 0 Feb  4 15:36 aardvark/
 
 What command did you use?
 ----------
-$ mkdir outermost
-$ cd outermost
 $ mkdir -p foo/bar/baz
 
 
